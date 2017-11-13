@@ -7,7 +7,7 @@ function setup()
 	
 	path = "/bdplayer";
 	img = "/img/";
-	son = "/son/";
+	son = "/sound/";
 	extimg = ".jpg";
 	extson = ".mp3";
 	counter = 0;
